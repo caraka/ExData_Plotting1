@@ -1,6 +1,6 @@
 ## Project 1 Complete
 
-Use the four plot?.R scripts in this repository to recreate the png files in the *figure* folder. Note that the path to the source data is hard coded in each script to keep 133MB out of the git repository. You will need to edit this path to use the scripts. A download link is below.
+Use the four plot?.R scripts in this repository to recreate the png files in the *figure* folder. Note that the path to the source data is hard coded in each script to keep 133MB out of the git repository. You will need to edit this path to use the scripts. A download link is below. I have been cheeky and replaced the professor's plots with my own in this ReadMe.  ;-)
 
 ## Introduction
 
