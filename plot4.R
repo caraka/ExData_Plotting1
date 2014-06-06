@@ -1,4 +1,4 @@
-## Project 1, Plot 3 Exploring Data 003
+## Project 1, Plot 4 Exploring Data 003
 
 ## create a custom colClass to fix the date, from:
 ## http://stackoverflow.com/questions/13022299/specify-date-format-for-colclasses-argument-in-read-table-read-csv
